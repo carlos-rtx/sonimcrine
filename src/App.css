@@ -1,0 +1,22 @@
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90dvh;
+}
+.sonDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.cormorant-garamond {
+  font-family: "Cormorant Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 5dvw;
+  color: #ffffff;
+}
